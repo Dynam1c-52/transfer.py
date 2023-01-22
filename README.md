@@ -1,2 +1,2 @@
 # transfer.py
-A python script which uploads file to transfer.sh 
+A python script for lazy people which uploads files to transfer.sh
